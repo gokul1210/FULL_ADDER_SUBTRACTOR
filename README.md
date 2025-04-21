@@ -1,3 +1,8 @@
+## NAME : GOKUL S
+
+## REG NO : 212224230075
+
+
 # FULL_ADDER_SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
@@ -38,18 +43,55 @@ Borrow out = A'Bin + A'B + BBin
 
 **Truthtable**
 
+i)
+
+![Screenshot 2025-04-21 215242](https://github.com/user-attachments/assets/8a486d29-2f22-404a-b724-c3d331222981)
+
+ii)
+
+![Screenshot 2025-04-21 215338](https://github.com/user-attachments/assets/026ce0d8-61b6-4d46-9137-09543b942e70)
+
+
 **Procedure**
 
-Write the detailed procedure here
+![procedure for dee](https://github.com/user-attachments/assets/87dcb498-b085-45b1-ab07-ea4aa1cd327c)
 
-**Program:**
 
-/* Program to design a half subtractor and full subtractor circuit and verify its truth table in quartus using Verilog programming. Developed by: RegisterNumber:
-*/
+Program:**
+
+i)FULL ADDER
+
+![full adder](https://github.com/user-attachments/assets/995e48f0-0a13-4fe6-90a0-0a9161813e92)
+
+
+ii)FULL SUBTRACTOR
+
+![full sub 1](https://github.com/user-attachments/assets/30d8ecf3-df98-4634-813f-98dd0fb249b6)
+
+
 
 **RTL Schematic**
 
+## FULL ADDER
+
+![full adder 1](https://github.com/user-attachments/assets/dde99a33-df43-4639-94a1-36d45c71c57b)
+
+## full subtractor
+
+![full sub 2](https://github.com/user-attachments/assets/7b90d707-e8b2-482a-b603-75ed61a37237)
+
+
 **Output Timing Waveform**
+
+## full adder
+
+![full aadder2](https://github.com/user-attachments/assets/6bbe8781-3035-4cab-aded-870a1d7e3f9f)
+
+## full subtractor
+
+![full sub 3](https://github.com/user-attachments/assets/678285af-939a-4c32-ad58-57de866bec09)
+
+
 
 **Result:**
 
