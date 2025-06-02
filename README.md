@@ -3,7 +3,7 @@
 ## REG NO : 212224230075
 
 
-# FULL_ADDER_SUBTRACTOR
+# FULL ADDER SUBTRACTOR
 
 Implementation-of-Full-Adder-and-Full-subtractor-circuit
 
